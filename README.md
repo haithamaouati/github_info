@@ -2,11 +2,16 @@
 GitHub User Information
 
 ## Table of Contents
-- [Scripts](#scripts)
-  - [Bash](#bash)
-  - [Python](#python)
-  - [PowerShell](#powershell)
-  - [PHP](#php)
+- [Prerequisites](#prerequisites)
+ - [Bash](#bash)
+ - [Python](#python)
+ - [PowerShell](#powershell)
+ - [PHP](#php)
+
+### Prerequisites
+
+- **jq**: a command-line JSON processor.
+  - `pkg install -y jq`
 
 ### Bash
 ```bash
