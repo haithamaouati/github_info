@@ -5,7 +5,6 @@ A bunches scripts written in `Bash`, `Python`, `PowerShell` and `PHP` that uses 
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
-- [Scripts](#scripts)
   - [Bash](#bash)
   - [Python](#python)
   - [PowerShell](#powershell)
