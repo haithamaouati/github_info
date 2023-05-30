@@ -13,6 +13,8 @@ Bunches scripts written in `Bash`, `Python`, `PowerShell`, `PHP` that uses the G
   - [Python](#python)
   - [PowerShell](#powershell)
   - [PHP](#php)
+- [Disclaimer](#disclaimer)
+- [License](#license)
 
 ### Prerequisites
 
@@ -40,3 +42,10 @@ python github_info.py octocat
 ```php
 php github_info.php octocat
 ```
+
+## Disclaimer
+> **Warning**:
+> We are not responsible for any misuse or damage caused by those scripts. use those tools at your own risk!
+
+## License
+This repository is under [Unlicense License](https://github.com/haithamaouati/github_info/blob/main/LICENSE).
