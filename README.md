@@ -5,10 +5,11 @@ A bunches scripts written in `Bash`, `Python`, `PowerShell` and `PHP` that uses 
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
- - [Bash](#bash)
- - [Python](#python)
- - [PowerShell](#powershell)
- - [PHP](#php)
+- [Scripts](#scripts)
+  - [Bash](#bash)
+  - [Python](#python)
+  - [PowerShell](#powershell)
+  - [PHP](#php)
 
 ### Prerequisites
 
@@ -17,22 +18,22 @@ A bunches scripts written in `Bash`, `Python`, `PowerShell` and `PHP` that uses 
 - **requests**: library to make HTTP requests.
   - `pip install requests`
 
-### Bash
+#### Bash
 ```bash
 ./github_info.sh octocat
 ```
 
-### Python
+#### Python
 ```python
 python github_info.py octocat
 ```
 
-### PowerShell
+#### PowerShell
 ```powershell
 .\github_info.ps1 octocat
 ```
 
-### PHP
+#### PHP
 ```php
 php github_info.php octocat
 ```
