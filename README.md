@@ -1,3 +1,8 @@
+![watchers](https://custom-icon-badges.demolab.com/github/watchers/haithamaouati/github_info?logo=eye)
+![stars](https://custom-icon-badges.demolab.com/github/stars/haithamaouati/github_info?logo=star)
+![forks](https://custom-icon-badges.demolab.com/github/forks/haithamaouati/github_info?logo=repo-forked)
+![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/github_info?logo=law)
+
 # github_info
 
 Bunches scripts written in `Bash`, `Python`, `PowerShell`, `PHP` that uses the GitHub API to retrieve public information about a user.
