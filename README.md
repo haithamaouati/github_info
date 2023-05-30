@@ -12,6 +12,8 @@ GitHub User Information
 
 - **jq**: a command-line JSON processor.
   - `pkg install -y jq`
+- **requests**: library to make HTTP requests.
+  - `pip install requests`
 
 ### Bash
 ```bash
