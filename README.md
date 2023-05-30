@@ -1,6 +1,8 @@
 # github_info
 GitHub User Information
 
+A bunches scripts that uses the GitHub API to retrieve public information about a user.
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
  - [Bash](#bash)
