@@ -1,7 +1,6 @@
 # github_info
-GitHub User Information
 
-A bunches scripts written in `Bash`, `Python`, `PowerShell` and `PHP` that uses the GitHub API to retrieve public information about a user.
+Bunches scripts written in `Bash`, `Python`, `PowerShell`, `PHP` that uses the GitHub API to retrieve public information about a user.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
